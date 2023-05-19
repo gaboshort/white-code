@@ -1,0 +1,2 @@
+# white-code
+primera practica
